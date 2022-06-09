@@ -124,7 +124,9 @@ class interdfaceme implements b,a{
     // TODO: implement speak
     throw UnimplementedError();
   }
-
+void ben(int a,int b){
+   print(a) ;
+}
   @override
   laugh() {
 
